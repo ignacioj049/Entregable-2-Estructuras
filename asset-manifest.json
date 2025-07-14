@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Malla_Interactiva_Informatica_Udec/static/css/main.7e787ac7.css",
-    "main.js": "/Malla_Interactiva_Informatica_Udec/static/js/main.d0f5fad1.js",
+    "main.css": "/Malla_Interactiva_Informatica_Udec/static/css/main.2ad592c5.css",
+    "main.js": "/Malla_Interactiva_Informatica_Udec/static/js/main.025ee1d5.js",
     "index.html": "/Malla_Interactiva_Informatica_Udec/index.html",
-    "main.7e787ac7.css.map": "/Malla_Interactiva_Informatica_Udec/static/css/main.7e787ac7.css.map",
-    "main.d0f5fad1.js.map": "/Malla_Interactiva_Informatica_Udec/static/js/main.d0f5fad1.js.map"
+    "main.2ad592c5.css.map": "/Malla_Interactiva_Informatica_Udec/static/css/main.2ad592c5.css.map",
+    "main.025ee1d5.js.map": "/Malla_Interactiva_Informatica_Udec/static/js/main.025ee1d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e787ac7.css",
-    "static/js/main.d0f5fad1.js"
+    "static/css/main.2ad592c5.css",
+    "static/js/main.025ee1d5.js"
   ]
 }
