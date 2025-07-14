@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Malla-Interactiva-Inform-tica-Udec/static/css/main.7e787ac7.css",
-    "main.js": "/Malla-Interactiva-Inform-tica-Udec/static/js/main.586c2cf9.js",
+    "main.js": "/Malla-Interactiva-Inform-tica-Udec/static/js/main.e8f1e71a.js",
     "index.html": "/Malla-Interactiva-Inform-tica-Udec/index.html",
     "main.7e787ac7.css.map": "/Malla-Interactiva-Inform-tica-Udec/static/css/main.7e787ac7.css.map",
-    "main.586c2cf9.js.map": "/Malla-Interactiva-Inform-tica-Udec/static/js/main.586c2cf9.js.map"
+    "main.e8f1e71a.js.map": "/Malla-Interactiva-Inform-tica-Udec/static/js/main.e8f1e71a.js.map"
   },
   "entrypoints": [
     "static/css/main.7e787ac7.css",
-    "static/js/main.586c2cf9.js"
+    "static/js/main.e8f1e71a.js"
   ]
 }
