@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Malla-Interactiva-Inform-tica-Udec/static/css/main.7e787ac7.css",
-    "main.js": "/Malla-Interactiva-Inform-tica-Udec/static/js/main.d0f5fad1.js",
-    "index.html": "/Malla-Interactiva-Inform-tica-Udec/index.html",
-    "main.7e787ac7.css.map": "/Malla-Interactiva-Inform-tica-Udec/static/css/main.7e787ac7.css.map",
-    "main.d0f5fad1.js.map": "/Malla-Interactiva-Inform-tica-Udec/static/js/main.d0f5fad1.js.map"
+    "main.css": "/Malla_Interactiva_Informatica_Udec/static/css/main.7e787ac7.css",
+    "main.js": "/Malla_Interactiva_Informatica_Udec/static/js/main.d0f5fad1.js",
+    "index.html": "/Malla_Interactiva_Informatica_Udec/index.html",
+    "main.7e787ac7.css.map": "/Malla_Interactiva_Informatica_Udec/static/css/main.7e787ac7.css.map",
+    "main.d0f5fad1.js.map": "/Malla_Interactiva_Informatica_Udec/static/js/main.d0f5fad1.js.map"
   },
   "entrypoints": [
     "static/css/main.7e787ac7.css",
